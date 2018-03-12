@@ -1,5 +1,5 @@
 # Prediction-Engineering-Uk-Retail-Dataset
-## Utilising FeatureTools Using temporal Data(UK Retail Dataset)
+## Utilising FeatureTools using temporal data(UK Retail Dataset)
 
 
 ### You can Download item_purchases.csv from the following website  
